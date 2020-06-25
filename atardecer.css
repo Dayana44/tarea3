@@ -1,0 +1,33 @@
+body {
+	color: blue;
+	background-image: url(sol.jpg.jpg);
+
+}
+
+p {
+	color:  #ffff00;
+	font-family: serif;
+	font-size: 20px;
+}
+
+h4 {
+	color: blue;
+	font-size: 20px;
+}
+h1{
+	font-family: monospace;
+	font-size: 40px;
+}
+
+h2 {
+	font-family:monospace;
+	font-size: 25px;
+	color: white;
+}
+
+h3 {
+	font-family: monospace;
+	font-size: 25px ;
+	color:white;
+}
+
